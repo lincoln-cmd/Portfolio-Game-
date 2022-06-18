@@ -1,0 +1,10 @@
+make tower defense game with pygame
+expected time : 2022.6.7 ~ 2022.8.7
+
+
+
+game assets: 
+            - https://itch.io/game-assets/tag-tower-defense
+            - https://craftpix.net/product/archer-tower-game-assets
+            
+tutorial video : https://www.youtube.com/watch?v=iLHAKXQBOoA
